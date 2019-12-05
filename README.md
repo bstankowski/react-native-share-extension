@@ -1,5 +1,8 @@
 # React Native Share Extension
 
+
+Why I need this fork: https://github.com/alinz/react-native-share-extension/issues/182#issuecomment-534993812
+
 This is a helper module which brings react native as an engine to drive share extension for your app.
 
 <p align="center">
